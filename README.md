@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 <h1 align="center">Hi 👋, I'm JooHyung</h1>
 <h3 align="center">South Korean backend developer with a passion for clean code</h3>
