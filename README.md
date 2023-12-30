@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm JooHyung</h1>
-<h3 align="center">A passionate Backend developer from South Korea</h3>
+<h3 align="center">South Korean backend developer with a passion for clean code</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
