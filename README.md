@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python, Mysql**
 
-- 📫 How to reach me **jhp21c@naver.com**
+- 📫 How to reach me **jhp20c@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
