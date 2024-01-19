@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealparkjoohyung" alt="therealparkjoohyung" /></a> </p>
 
-- 🌱 I’m currently learning **HTML/CSS, JavaScript, HTTP, Django, PostgreSQL, ERD, AWS**
+- 🌱 I’m currently learning **Django, PostgreSQL, HTML/CSS, JavaScript, HTTP, ERD, AWS**
 
 - 👨‍💻 All of my projects are available at [https://www.notion.so/eb5f4c50fd654d2585a818c1aef609a4?pvs=4](https://www.notion.so/eb5f4c50fd654d2585a818c1aef609a4?pvs=4)
 
