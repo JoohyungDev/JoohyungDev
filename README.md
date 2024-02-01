@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therealparkjoohyung&label=Profile%20views&color=0e75b6&style=flat" alt="therealparkjoohyung" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therealparkjoohyung" alt="therealparkjoohyung" /></a> </p>
-
 - 🌱 I’m currently learning **Django, PostgreSQL, HTML/CSS, JavaScript, HTTP, ERD, AWS**
 
 - 👨‍💻 All of my projects are available at [https://www.notion.so/eb5f4c50fd654d2585a818c1aef609a4?pvs=4](https://www.notion.so/eb5f4c50fd654d2585a818c1aef609a4?pvs=4)
