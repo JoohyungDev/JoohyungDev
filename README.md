@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JooHyung</h1>
+<h1 align="center">Hi 👋, I'm Joohyung</h1>
 <h3 align="center">A backend developer who practices "humility in learning and confidence in sharing knowledge".</h3>
 
 - 📫 How to reach me **jhp20c@gmail.com**
