@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm JooHyung</h1>
 <h3 align="center">South Korean backend developer with a passion for clean code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=therealparkjoohyung&label=Profile%20views&color=0e75b6&style=flat" alt="therealparkjoohyung" /> </p>
-
-- 🌱 I’m currently learning **Django, PostgreSQL, HTTP, ERD, AWS**
-
 - 📫 How to reach me **jhp20c@gmail.com**
 
 <p align="left">
