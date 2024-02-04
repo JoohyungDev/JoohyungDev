@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.notion.so/eb5f4c50fd654d2585a818c1aef609a4?pvs=4](https://www.notion.so/eb5f4c50fd654d2585a818c1aef609a4?pvs=4)
 
-- 💬 Ask me about **Python, HTML/CSS, MySql**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **jhp20c@gmail.com**
 
