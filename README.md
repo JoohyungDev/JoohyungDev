@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Joohyung</h1>
-<h3 align="center">A backend developer who practices "humility in learning and confidence in sharing knowledge".</h3>
+<h1 align="center">안녕하세요 👋 백엔드 개발자를 꿈꾸는 박주형입니다.</h1>
+<h3 align="center">"배움에 있어서는 겸손하게, 지식 공유에 있어서는 자신감있게"를 실천하고자 합니다.</h3>
 
-- 📫 How to reach me **jhp20c@gmail.com**
+- 📫 컨택을 원하시면 **jhp20c@gmail.com** 로 연락주세요.
 
 <p align="left">
 </p>
